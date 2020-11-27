@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.mainDiv{
+  width: 1200px;
+  height: auto;
+  margin: 100px 100px;
+}
+
+
+.ant-table-title + .ant-table-container table > thead > tr:first-child th{
+  font-weight: bold;
+}
+
+.checkText{
+  font-weight: bold;
+  float: left;
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+.dividerSty{
+  background-color: #a59d9d;
+}
+
+.radiogpsty{
+  margin: 10px !important;
+  padding-right: 10px !important;
+}
